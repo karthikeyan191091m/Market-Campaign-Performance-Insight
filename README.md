@@ -54,7 +54,7 @@ The dataset includes: - Customer demographics\
 2.  Install dependencies\
 3.  Run Jupyter Notebook
 
-## 👨‍💻 Author
+## Author
 
 **Karthikeyan M**
 
